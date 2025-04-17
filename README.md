@@ -73,6 +73,7 @@ Yes. Biomedical datasets relevant to each module will be provided. These include
 
 ### 6. **Will I receive a certificate after completing the course?**
 Yes, participants who complete the full course and submit final projects will receive a certificate of completion issued by **cBLAST**.
+
 ---
 
 ### 7. **How do I get support if I run into problems?**
