@@ -43,6 +43,43 @@ By the end of this course, participants will be able to:
 | Md. Raiyan Hosen  | Administrative Manager                             | cBLAST, University of Dhaka              | [mdraiyanhosen777@gmail.com](mailto:mdraiyanhosen777@gmail.com) |
 | Nishat Tamanna    | Research Associate                                 | Plant Biotechnology Lab, University of Dhaka | [nishattamanna51@gmail.com](mailto:nishattamanna51@gmail.com) |
 
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. **Who is this course intended for?**
+This course is designed for students, researchers, and professionals in biomedical sciences, public health, biotechnology, and data science who are interested in applying machine learning techniques using Python to solve real-world biomedical problems.
+
+---
+
+### 2. **What prior knowledge is required?**
+Basic understanding of biology or biomedical concepts is helpful but not mandatory. No prior programming or machine learning experience is required, although familiarity with basic Python syntax will be an advantage.
+
+---
+
+### 3. **What programming language is used in this course?**
+The course exclusively uses **Python**, leveraging popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and PyCaret for scientific computing and machine learning.
+
+---
+
+### 4. **Do I need to install any software before the course begins?**
+Yes. You’ll need Python (preferably via Anaconda) and Jupyter Notebook or any IDE of your choice. Detailed installation instructions are provided in the **Installation Requirements** section.
+
+---
+
+### 5. **Will datasets be provided?**
+Yes. Biomedical datasets relevant to each module will be provided. These include publicly available data such as gene expression, clinical trial data, and health indicators for practical exercises.
+
+---
+
+### 6. **Will I receive a certificate after completing the course?**
+Yes, participants who complete the full course and submit final projects will receive a certificate of completion issued by **cBLAST**.
+---
+
+### 7. **How do I get support if I run into problems?**
+For queries, you can email the administrative or academic contacts provided. We also encourage peer support through discussion forums or GitHub Issues if the course is hosted publicly.
+
+
+
 ## 📄 License
 
 This course material is shared under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
