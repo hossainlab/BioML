@@ -43,7 +43,23 @@ By the end of this course, participants will be able to:
 | Md. Raiyan Hosen  | Administrative Manager                             | cBLAST, University of Dhaka              | [mdraiyanhosen777@gmail.com](mailto:mdraiyanhosen777@gmail.com) |
 | Nishat Tamanna    | Research Associate                                 | Plant Biotechnology Lab, University of Dhaka | [nishattamanna51@gmail.com](mailto:nishattamanna51@gmail.com) |
 
+## 📄 License
 
+This course material is shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
 
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.  
+
+🔗 [More information](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+© Md. Jubayer Hossain, 2025
 
 
