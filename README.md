@@ -31,7 +31,7 @@ By the end of this course, participants will be able to:
 
 | Name                  | Institution                      | Department | Role at CHIRAL              | Role at Workshop   |
 |-----------------------|----------------------------------|------------|------------------------------|---------------------|
-| Md. Jubayer Hossain   | Jagannath University             | Microbiology | Founder & Executive Director | Lead Instructor     |
+| Md. Jubayer Hossain   | Jagannath University             | Microbiology | Founder & Executive Director | Lead Organizer & Instructor     |
 | Tasmim Rahman Adib    | University of Dhaka              | CSE         | Research Assistant            | Instructor          |
 | Md. Nazmul Hossain    | Daffodil International University | CSE         | Research Assistant            | Instructor          |
 
