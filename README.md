@@ -1,4 +1,5 @@
 # Biomedical Machine Learning with Python (BioML)
+![](https://github.com/hossainlab/BioML/blob/main/BioML.png)
 
 ## 📘 Course Description
 
